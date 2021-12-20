@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZMFF+luTHxP/98NtsoZSQkQInuGB4JeT2J3eSMqqIMu/aH+xq+3EhTJXT+vlQQ4xfUecICHDvP8nsTu6Np/Jw==",
+  "success": true,
+  "projectFilePath": "D:\\Sharp\\oop-class-book\\BookListService\\BookListService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\buildtools.fxcop\\1.0.1\\buildtools.fxcop.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
